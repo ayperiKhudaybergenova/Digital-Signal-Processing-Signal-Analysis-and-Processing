@@ -3,8 +3,8 @@
 ## Project Vision
 
 This project explores the fundamentals of **Digital Signal Processing (DSP)** through Python-based experiments. The main objective is to understand how continuous signals can be sampled, represented, analysed in the frequency domain, and reconstructed using mathematical and computational methods.
-
-The project combines signal-processing theory with practical implementation, data visualisation, and experimentation. It demonstrates technical skills that are relevant to roles in signal processing, software development, audio engineering, and applied data analysis.
+Computer
+The project combines signal-processing theory with practical implementation, data visualisation, and experimentation. It demonstrates technical skills that are relevant to signal processing, software development, audio engineering, and applied data analysis.
 
 ## Objectives
 
